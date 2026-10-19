@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PushScroll</string>
+    <string name="acc_label">PushScroll – Shorts control</string>
+    <string name="acc_desc">While PushScroll tracking is running, this swipes to the next YouTube Short each time you finish a pushup and blocks manual swiping on Shorts (taps still work). It does nothing when tracking is stopped and collects no data.</string>
+</resources>
